@@ -7,5 +7,5 @@ Performing analysis on Kickstarter data to uncover trends
 
 <img width="266" alt="Parent Category Outcomes" src="https://user-images.githubusercontent.com/110485380/188962593-01445b01-d97a-44f3-b2a1-da8d442bb566.png">
 
-
+> Text that is a quote
 ![image_name](C:\Users\jerry\Desktop\Analysis Projects\Crowdfunding Analysis\Images\Outcomes Based on Launch Date.PNG)
