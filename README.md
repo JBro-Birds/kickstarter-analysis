@@ -11,7 +11,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 
 
-![Outomces Based On Launch Date](C:/Users/jerry/Desktop/Images/OutcomesBasedOnLaunchDate.png)
+![Outcomes Based On Launch Date](C:/Users/jerry/Desktop/Images/OutcomesBasedOnLaunchDate.png)
 
 
 
