@@ -16,4 +16,5 @@ Performing analysis on Kickstarter data to uncover trends
 
 
 
+![image](https://user-images.githubusercontent.com/110485380/188974337-aabb05f9-84f0-4e4a-87d2-df3108634355.png)
 
