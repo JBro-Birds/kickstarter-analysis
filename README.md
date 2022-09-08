@@ -1,6 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
+Analyze crowdfunding data to determine trends to help Lousie with her crowdfunding campaign goal.
 
 ### Purpose of the Project
 The purpose of this analysis on Kickstarter data is to uncover trends to crowdfunding data to determine whether there are specific factors that make a project's campaign successful.  More specifically, Loiuse has asked for help to determine if her crowdfunding campaign goal for her play "Fever", which has a $10,000 budget, has the potential to be successful based on the analysis.
