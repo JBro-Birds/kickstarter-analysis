@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
+The purpose of this analysis on Kickstarter data is to uncover trends to help Louise determine her crowdfunding campaign goal for her play "Fever".
 
 
 <img width="272" alt="Outcomes Based on Launch Date" src="https://user-images.githubusercontent.com/110485380/188962417-9a3f950b-c9a2-4b6c-854d-8cd4cf9cc420.png">
