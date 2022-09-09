@@ -15,6 +15,6 @@ The purpose of this analysis on Kickstarter data is to uncover trends to crowdfu
 
 
 
-![Outcomes Based On Launch Date](C:/Users/jerry/Desktop/Images/OutcomesBasedOnLaunchDate.png)
+![Outcomes Based On Launch Date](Images/OutcomesBasedOnLaunchDate.png)
 
 ## Recommendation
