@@ -15,6 +15,8 @@ I created a line chart to show "theater" outcomes based on launch date.  The kic
 
 ![Theater Outcomes vs Launch_Date](https://github.com/JBro-Birds/kickstarter-analysis/resouces/"Theater_Outcomes_vs_Launch.png")
 
+![Theater Outcomes vs Launch_Date](https://raw.githubusercontent.com/JBro-Birds/kickstarter-analysis/master/resources/"Theater_Outcomes_vs_Launch.png")
+
 ### Analysis of Outcomes Based on Goals
 I created a line chart for "play" outcomes based on goals by showing outcome percentage by goal range $values.  The kickstarter dataset includes the subcategory "plays", outcome categories of "successful", "failed" and "canceled", and corresponding campaign "goal" $value.  Due to the vast number of unique goal $values across all the "play" campaigns a defined $range was created to categorize each campaign into a range $value category.  The "COUNTIFS" forumla was used to determine the number of campaigns by goal range $value and by outcome category.  The percentage for each outcome by range $value is formulated by the number of each specific outcome divided by the total number of outcomes by range $value. I created a line chart that plots the data from the pivot table. 
 
